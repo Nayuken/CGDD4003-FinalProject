@@ -1,4 +1,4 @@
-#Welcome to SpeakEasyGetAway! 
+# Welcome to SpeakEasyGetAway! 
 Final project for digital Media &amp; Interaction(CGDD 4003) written in C#
 
 In this game, you will be taking control of a car as you navigate a the prohibition era collecting moonshine jugs and avoiding the law as they try to stop your good time!
